@@ -1,6 +1,6 @@
 # Portfolio de N'Koy OTSHUDI
 
-## A propose de moi
+## A propos
 Avec mes 13 années d’expertise en tant que Testeur Intégrateur, je saurai analyser, concevoir,
 implémenter et exécuter vos tests logiciels pour garantir la qualité de vos solutions.
 De plus je maîtrise parfaitement les outils de gestion de tests, tels que JIRA, Quality Center afin
