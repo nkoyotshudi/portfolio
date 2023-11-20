@@ -1,4 +1,63 @@
-# Portfolio
+# Portfolio de N'Koy OTSHUDI
+
+## Expérience professionnelle
+
+### Testeur de logiciels senior, Transactis, Schiltigheim, France, Depuis le 25/04/2023 jusqu'à aujourd'hui
+
+- Conception et mise en œuvre de plans de test détaillés pour garantir une couverture de test complète.
+- Utilisation d'outils d'automatisation de tests tels que Selenium et JUnit pour augmenter l'efficacité des tests.
+- Collaboration étroite avec la MOA et l'équipe de développement pour identifier et résoudre les problèmes.
+
+
+### Testeur de logiciels, Gestour Amadeus, Schiltigheim, France, Du 02/05/2021 au 22/04/2022
+
+- Réalisation de tests manuels sur une variété de projets logiciels.
+- Rédaction de rapports de bugs détaillés et suivi de leur résolution.
+- Participation à des revues de code pour assurer la qualité du code.
+- Formation et encadrement des membres juniors de l'équipe de test.
+
+
+### Testeur de logiciels, Euro Protection Surveillance, Strasbourg, France, Du 01/01/2019 au 30/11/2020
+
+- Réalisation de tests manuels sur une variété de projets logiciels.
+- Rédaction de rapports de bugs détaillés et suivi de leur résolution.
+- Participation à des revues de code pour assurer la qualité du code.
+- Formation et encadrement des membres juniors de l'équipe de test.
+
+
+### Testeur de logiciels, Flowbird, Besançon, France, Du 02/05/2017 au 30/09/2019
+
+- Réalisation de tests manuels sur une variété de projets logiciels.
+- Rédaction de rapports de bugs détaillés et suivi de leur résolution.
+- Participation à des revues de code pour assurer la qualité du code.
+- Formation et encadrement des membres juniors de l'équipe de test.
+
+## Compétences techniques
+
+- Outils de test : Selenium, JUnit, Postman
+- Langages de programmation : Java, Python, JavaScript
+- Gestion de projet : Jira, Trello
+- Bases de données : DB2, PostgreSQL
+
+## Certifications
+
+- Automatisation de Tests Logiciels
+- ISTQB Certified Tester Niveau Fondation
+
+## Éducation
+
+- Master Sciences à finalité professionnelle mention Mathématiques, Université de Strasbourg, 2008-2009
+- Maîtrise de Mathématiques, Université de Strasbourg, 2007-2008
+
+## Références
+
+Disponibles sur demande
+
+
+
+
+
+# Portfolio de N'Koy OTSHUDI
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
