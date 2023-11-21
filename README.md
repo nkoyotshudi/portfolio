@@ -4,10 +4,10 @@
 Avec mes 13 années d’expertise en tant que Testeur Intégrateur, je saurai analyser, concevoir,
 implémenter et exécuter vos tests logiciels pour garantir la qualité de vos solutions.
 De plus je maîtrise parfaitement les outils de gestion de tests, tels que JIRA, Quality Center afin
-de donner de la visibilité sur l’avancement des tests et je pourrai également effectuer le suivi des
+de donner de la visibilité sur l’avancement des tests.  Je pourrai également effectuer le suivi des
 bugs jusqu’à leur correction pour contribuer au respect du calendrier des livraisons des solutions en
 mode Agile ou pas.
-Je sera ainsi votre référent qualité, car je maîtrise parfaitement le processus de test dans sa
+Ainsi je serai votre référent qualité, car je maîtrise parfaitement le processus de test dans sa
 globalité, et je serai le trait d’union avec les parties prenantes du projet pour les informer sur
 l’avancement du tests mais aussi pour apporter mon assistance aux utilisateurs finaux.
 J'apporterai la documentation nécessaire pour permettre notamment d’effectuer les
